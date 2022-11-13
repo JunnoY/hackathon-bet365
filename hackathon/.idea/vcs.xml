@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BetFinder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RPi-La-Croix-Flavor-Detector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Teachable-Machine-Object-Detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/object-detection-opencv" vcs="Git" />
+  </component>
+</project>
